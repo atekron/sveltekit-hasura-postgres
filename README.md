@@ -13,6 +13,8 @@ At the root level run the command
     docker-compose up
 
 Then go to the [localhost:3000](localhost:3000) website.
+
+
 Then go to the [localhost:8080](localhost:8080) hasura console.
 
 ## Stop all running containers
